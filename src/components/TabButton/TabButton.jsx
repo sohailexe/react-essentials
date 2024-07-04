@@ -1,5 +1,3 @@
-import { EXAMPLES } from "../../data";
-
 export default function TabButton({ children, onSelect }) {
   return (
     <li>
